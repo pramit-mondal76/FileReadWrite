@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<customers>
+   <customer id="55000">
+      <name>Charter Group</name>
+      <address>
+         <street>100 Main</street>
+         <city>Framingham</city>
+         <state>MA</state>
+         <zip>01701</zip>
+      </address>
+      
+   </customer>
+
+    <customer id="66000">
+      <name>RPSG Group</name>
+      <address>
+         <street>200 Main</street>
+         <city>Norway</city>
+         <state>CS</state>
+         <zip>01777</zip>
+      </address>
+     
+   </customer>
+</customers>

@@ -1,0 +1,35 @@
+Log Start Time: 18-01-2025 12:47:31
+JSON Data:18-01-2025 12:47:31
+Name: Jeane Muhammad
+Email: vannesa-crook0@sofa.com
+Name: Fawn Waters
+Email: suzan_obryan@hotmail.com
+Name: Soila Brent
+Email: gerdaclancy4@hotmail.com
+Name: Marcella Tolley
+Email: edie38@promoted.com
+Name: Melia Kimbrell-Woodard
+Email: paul_hardman70@universal.com
+Name: Ossie Kirkwood
+Email: benito-hairston8@yahoo.com
+Name: Lucio Youngblood
+Email: elois.rountree@celebrate.com
+Name: Cedric Lawson
+Email: windy.fry@hotmail.com
+Name: Mardell Boettcher
+Email: kristian.booth578@guess.com
+Name: Britni Eckert
+Email: kaitlin_goins6294@melbourne.com
+18-01-2025 12:47:31 XML Data:
+Name: Charter Group
+State: MA
+Name: RPSG Group
+State: CS
+18-01-2025 12:47:31 TXT Data:
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the 
+industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
+ it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic 
+ typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset 
+ sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker
+  including versions of Lorem Ipsum.
+Log End Time: 18-01-2025 12:47:31

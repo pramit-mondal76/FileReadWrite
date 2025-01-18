@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Desktop\Csharpe\YourProjectName\obj\Debug\net8.0\YourProjectName.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\Csharpe\YourProjectName\obj\Debug\net8.0\YourProjectName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Csharpe\YourProjectName\obj\Debug\net8.0\YourProjectName.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Csharpe\YourProjectName\obj\Debug\net8.0\YourProjectName.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Csharpe\YourProjectName\obj\Debug\net8.0\YourProjectName.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\Csharpe\YourProjectName\bin\Debug\net8.0\YourProjectName.exe
+C:\Users\User\OneDrive\Desktop\Csharpe\YourProjectName\bin\Debug\net8.0\YourProjectName.deps.json
+C:\Users\User\OneDrive\Desktop\Csharpe\YourProjectName\bin\Debug\net8.0\YourProjectName.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\Csharpe\YourProjectName\bin\Debug\net8.0\YourProjectName.dll
+C:\Users\User\OneDrive\Desktop\Csharpe\YourProjectName\bin\Debug\net8.0\YourProjectName.pdb
+C:\Users\User\OneDrive\Desktop\Csharpe\YourProjectName\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\User\OneDrive\Desktop\Csharpe\YourProjectName\obj\Debug\net8.0\YourProj.DB8AD2E0.Up2Date
+C:\Users\User\OneDrive\Desktop\Csharpe\YourProjectName\obj\Debug\net8.0\YourProjectName.dll
+C:\Users\User\OneDrive\Desktop\Csharpe\YourProjectName\obj\Debug\net8.0\refint\YourProjectName.dll
+C:\Users\User\OneDrive\Desktop\Csharpe\YourProjectName\obj\Debug\net8.0\YourProjectName.pdb
+C:\Users\User\OneDrive\Desktop\Csharpe\YourProjectName\obj\Debug\net8.0\YourProjectName.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\Csharpe\YourProjectName\obj\Debug\net8.0\ref\YourProjectName.dll
